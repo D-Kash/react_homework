@@ -1,0 +1,22 @@
+.wrapper {
+    max-width: 800px;
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.display {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.buttonsWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
